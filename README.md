@@ -1,6 +1,6 @@
 # koa-books
 
-Little htp server on koa2. Used mysql, redis for cache
+Little http server on koa2. Used mysql, redis for cache
 
 ## Quick start
 
